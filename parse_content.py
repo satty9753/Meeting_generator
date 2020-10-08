@@ -7,20 +7,18 @@ files = os.listdir(path)
 
 first_file = files[0]
 
-print(first_file)
-
-f = open(path + '/' +first_file, 'r')
-
-data = {'marc':'', 'william':'', 'michelle':'', 'sandy':'', 'eric':''}
-
 marc = 'Marc Liu'
+hunk = 'Hunk Yang'
 william = 'William Weng'
 michelle = 'Michelle Chen'
 sandy = 'Sandy Yeh'
 eric = 'Eric Yeh'
 
 def addWord(s):
-    data['marc'] += s
+    if 'marc' in data:
+        data['marc'] += s
+    else:
+        data['hunk'] += s
     data['william'] += s
     data['michelle'] += s
     data['sandy'] += s
@@ -34,35 +32,33 @@ def parse_person(part):
         addWord('進行中項目')
     else:
         addWord('下週預計')
-    data['marc'] += part.split(marc)[1].split(william)[0]
+
+    if 'marc' in data:
+        data['marc'] += part.split(marc)[1].split(william)[0]
+    else:
+        data['hunk'] += part.split(hunk)[1].split(william)[0]
+
     data['william'] += part.split(william)[1].split(michelle)[0]
     data['michelle'] += part.split(michelle)[1].split('Android')[0]
     data['sandy'] += part.split(sandy)[1].split(eric)[0]
     data['eric'] += part.split(eric)[1]
 
+
+data = {'william':'', 'michelle':'', 'sandy':'', 'eric':''}
+
+f = open(path + '/' +first_file, 'r')
+
 content = f.read()
+
+if marc in content:
+    data['marc'] = ''
+elif hunk in content:
+    data['hunk'] = ''
 
 weeklyComplete = content.split('本週完成項目：')[1].split('進行中項目：')[0]
 processing = content.split('進行中項目：')[1].split('下週預計：')[0]
 futurePlan = content.split('下週預計：')[1]
 
-
-# for line in f.readlines():
-#     if '本週完成項目' in line:
-#         addWord(line)
-#     elif 'Marc Liu' in line:
-#         data['marc'] += 'Marc Liu'
-#     else:
-#         data['marc'] += line
-#         if 'William Weng' in line:
-#             break
-    # if 'Marc Liu' in line:
-    #     if 'marc' not in data:
-    #         data['marc'] = ''
-    #     else:   
-    #         data['marc'] += line
-    # elif 'William' in line:
-    #     data['william'] += line
 parse_person(weeklyComplete)
 parse_person(processing)
 parse_person(futurePlan)
@@ -74,5 +70,7 @@ json_data = json.dumps(data,ensure_ascii=False,indent=2)
 
 fname = first_file.split('.')[0]
 
-with open(fname+'.json', "w") as outfile: 
+new_path = 'json/'
+
+with open(new_path + fname +'.json', "w") as outfile: 
     outfile.write(json_data) 

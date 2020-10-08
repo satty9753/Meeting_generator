@@ -10,51 +10,55 @@ first_file = files[0]
 
 doc = Document('SD-App 20201008.docx')
 
+michelle = 'michelle'
+marc = 'marc'
+hunk = 'hunk'
+william = 'william'
+sandy = 'sandy'
+eric = 'eric'
+
 numTables = doc.tables
 table = numTables[0]
 
 #會議日期
-first_filename = first_file.split('.')[0]
 date = first_file.split('SD-App')[1].split('.')[0].strip()
 table.cell(1, 1).text = date
 
-#主席
-#......
+# 紀錄
+# table.cell(3, 3).text = "Michelle"
 
-#紀錄
-table.cell(3, 3).text = "Michelle"
+#read file
+first_filename = first_file.split('.')[0]
 
-######Leader
-#名稱
+with open(first_file , 'r') as reader:
+    json_data = json.loads(reader.read())
+    #主席
+    if marc in json_data:
+        table.cell(2, 1).text = 'Marc'
+    else:
+        table.cell(2, 1).text = 'Hunk'
+
+##########Leader
 #工作項目
+    if marc in json_data:
+        table.cell(7, 0).text = json_data[marc]
+    else:
+        table.cell(7, 0).text = json_data[hunk]
 
 ######william
-#名稱
 #工作項目
-
+    table.cell(8, 0).text = json_data[william]
 
 ######michelle
-#名稱
 #工作項目
+    table.cell(9, 0).text = json_data[michelle]
 
 ######sandy
-#名稱
 #工作項目
-
+    table.cell(10, 0).text = json_data[sandy]
 
 ######eric
-#名稱
 #工作項目
+    table.cell(11, 0).text = json_data[eric]
 
 doc.save(first_filename+'.docx')
-# table.cell(3, 4).text = "Michelle"
-
-# for table in numTables:
-#     row_count = len(table.rows)
-#     col_count = len(table.columns)
-#     for i in range(row_count):
-#         for j in range(col_count):
-#             if "2020/10/08" in table.cell(i, j).text:
-#                 print(i, j)
-#             else:
-#                 continue
