@@ -1,0 +1,89 @@
+App Team 2020第20週 週報
+108/05/11 - 108/05/15
+
+
+
+本週完成項目：
+iOS :
+Hunk Yang：
+南英扶輪社新需求規劃討論
+
+William Weng：
+產品：Auziere
+DIY_Blends法國資料檔 (Execl -> JSON -> DIY_Blends)
+DIY_Blends Tab畫面製作
+
+Michelle Chen：
+產品：Brand App
+Estebel Spa互動新增其他功能
+SD/PD：APP程式元件俱樂部
+研究Node.js網站後台技術(學習MYSQL)
+
+Android：
+Sandy Yeh：
+SD：技術研究與發展 - Android
+研究Android app的混淆打包：套用在專案上(Speed Catalog、品牌庫存)
+
+Eric Yeh： 
+Auziere APP
+DIY_Blends 頁面資料欄位調整
+閱讀及熟悉Dependency Injection Framework
+
+進行中項目：
+iOS：
+Hunk Yang：
+南英扶輪社新需求規劃討論
+iOS CloudKit Study
+
+William Weng：
+產品：Auziere
+DIY_Blends語系檔
+Coaching法國資料檔 (Execl -> JSON -> DIY_Blends)
+Coaching Tab畫面製作 (畫面未定案 - 先做 / 資料整合)
+
+Michelle Chen：
+產品：CEO iphone
+全球業績圖表顏色再更動
+SD/PD：APP程式元件俱樂部
+研究Node.js網站後台技術(學習Sequelize)
+
+
+Android：
+Sandy Yeh：
+SD：技術研究與發展 - Android
+研究Android的Google Maps SDK
+
+Eric Yeh：
+Auziere APP
+實作DI Framework 整理及修改部分功能程式碼
+DIY_Blends 頁面ＵＩ調整
+
+
+下週預計：
+iOS：
+Hunk Yang：
+南英扶輪社新需求規劃討論
+Map 應用
+
+William Weng：
+產品：Auziere
+Coaching語系檔
+Coaching法國資料檔 (Execl -> JSON -> DIY_Blends)
+Coaching Tab畫面製作 (畫面未定案 - 先做 / 資料整合)
+
+Michelle Chen：
+產品：CEO iphone
+全球業績圖表顏色再更動
+SD/PD：APP程式元件俱樂部
+研究Node.js網站後台技術(學習Sequelize)
+
+Android：
+Sandy Yeh：
+SD：技術研究與發展 - Android
+研究Android的Google Maps SDK
+研究Android app的混淆打包：套用在專案上(差勤、IITToolBox、AccessRegister)
+
+Eric Yeh：
+Auziere APP
+實作DI Framework 整理及修改部分功能程式碼
+DIY_Blends 及Coaching頁面ＵＩ製作調整

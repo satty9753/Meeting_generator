@@ -1,0 +1,109 @@
+App Team 2020第16週 週報
+108/04/13 - 108/04/17
+
+
+
+本週完成項目：
+iOS :
+Hunk Yang：
+SD：智慧數位健身器(Digital Fitness Equipment)      a.    規劃、尋求合作
+
+William Weng：
+產品：Auziere
+中英文資料檔 (JSON - Home)
+資料結構分析 (MySQL欄位 -> Meow -> JSON -> APP)
+HomeTab畫面與資料結合
+
+Michelle Chen：
+產品：BrandApp
+Estebel Spa互動UI更改
+CEO iphone:
+退貨保留率設定後選單需自動跳到下一個營業點
+ AccessRegister - iOS:
+畫面調整
+確定App名稱與App Icon
+營業點頁左上新增按鈕顯示小程序圖片
+移除進入背景模式後返回第一頁的流程
+
+
+
+
+Android：
+Sandy Yeh：
+
+
+Eric Yeh： 
+Auziere APP
+首頁產品功能實作及畫面流程調整
+南英APP
+修正登入後刪除APP再重新安裝後，登入狀態不正常	
+產品：BrandApp
+Estebel Spa協助PM上架百度版本及微信小程序跳轉測試
+	
+
+進行中項目：
+iOS：
+Hunk Yang：
+SD：智慧數位健身器(Digital Fitness Equipment)
+馬達規劃
+尋求合作開發
+
+William Weng：
+產品：Auziere
+中英文資料檔 (JSON - Product / DIY)
+資料結構分析 (MySQL欄位 -> Meow -> JSON -> APP)
+ProductTab畫面與資料結合
+
+Michelle Chen：
+CEO iphone
+修正PD提出的畫面Part2
+
+Android：
+Sandy Yeh：
+產品：AccessRegister - Android
+更改app名稱及icon
+營業點列表畫面調整
+營業點頁面調整
+IIT: ToolBox - Backend
+加入新員工資料及移除離職員工
+
+Eric Yeh：
+Auziere APP
+首頁產品及登入功能實作及畫面流程調整
+ＡＰＩ資料欄位調整
+
+下週預計：
+iOS：
+Hunk Yang：
+SD：智慧數位健身器(Digital Fitness Equipment)
+馬達規劃
+尋求合作開發
+應用規劃
+
+
+William Weng：
+產品：Auziere
+中英文資料檔 (JSON - Profile)
+資料結構分析 (MySQL欄位 -> Meow -> JSON -> APP)
+DIY Tab畫面與資料結合
+
+Michelle Chen：
+產品：BrandApp
+協助PM上架Estebel Spa
+CEO iphone
+修正PD提出的畫面Part2
+
+Android：
+Sandy Yeh：
+SD：技術研究與發展 - Android
+研究Android app的混淆打包
+產品：AccessRegister - Android
+營業點列表畫面調整
+營業點頁面調整
+IIT: ToolBox - Backend
+加入新員工資料及移除離職員工
+
+Eric Yeh：
+Auziere APP
+首頁產品及登入功能實作及畫面流程調整
+ＡＰＩ資料欄位調整

@@ -1,0 +1,82 @@
+App Team 2020第10週 週報
+108/03/02 - 108/03/06
+
+
+
+
+本週完成項目：
+iOS :
+Hunk Yang：
+新入公司學習，環境設定
+
+William Weng：
+測試第三方登入功能 (Apple / Facebook / Weixin / Sina)
+學習友盟+第三方整合平臺功能
+製作Auziere的Demo APP
+
+Michelle Chen：
+產品App更新Push server API
+建立CEO APP遠端倉庫
+修改產品App EstebelSpa UI介面
+
+Android：
+Sandy Yeh：
+
+
+Eric Yeh： 
+整理及修改產品ＡＰＰ介接小程序功能
+修改產品ＡＰＰ Estabel Spa UI介面
+
+
+進行中項目：
+iOS：
+Hunk Yang：
+專案 Redmine 工具使用
+了解目前開發中的 App 專案
+Study Parse Server
+
+William Weng：
+分析製作Auziere的項目
+製作Auziere的Demo APP
+學習友盟+第三方整合平臺功能
+
+Michelle Chen：
+研究產品App跳轉小程序功能
+製作Cake App的報告
+
+Android：
+Sandy Yeh：
+品牌庫存Android app
+在資料同步模組新增ESTEBEL Spa項目
+點擊產品的圖片跳轉到WeChat的小程序
+
+Eric Yeh：
+閱讀及實作Auziere畫面流程及功能
+
+
+下週預計：
+iOS：
+Hunk Yang：
+專案 Redmine 工具使用
+了解目前開發中的 App 專案
+Study Parse Server
+
+William Weng：
+分析製作Auziere的項目
+製作Auziere的Demo APP
+產生AuziereAPP的欄位Demo
+
+Michelle Chen：
+研究產品App跳轉小程序功能
+研究Parse Cloud Function
+
+Android：
+Sandy Yeh：
+品牌庫存Android app
+點擊產品的圖片跳轉到WeChat的小程序
+研究
+Parse cloud function
+
+Eric Yeh：
+閱讀及熟悉parse後台相關設定
+了解及新增Auziere工作項目至Redmine
