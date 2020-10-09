@@ -1,0 +1,7 @@
+{
+  "william": "本週完成項目：\n產品：Auziere\nProfile頁登入API (第三方 / 帳密)\nProducts頁書籤API (記錄網頁書籤)\n產品：扶輪社\n修正網頁顯示不正常的問題 (是因為後台正在維修，現在測試正常)\n\n進行中項目：\n產品：Auziere\nHome頁畫面美化 (圖示改換)\nProfile頁美化與修正 (根據Apple的一些規定再修改畫面的設計方式)\n\n下週預計：\n產品：Auziere\nHome頁資料庫設定 (根據畫面的不同去做假資料的產生)\nProfile頁修正 (根據Apple的一些規定再修改畫面的設計方式)\n\n",
+  "michelle": "本週完成項目：\n品牌APP-Estebel Spa \n修正v4.0.3被退的問題並上架v4.0.6\n修正v4.0.6被退的問題並上架v4.0.8\nCEO iphone\n所有圖表上漸層色\n退貨保留設定同心圓圖表更改比例呈現的方式\n完成測試及交付PM\nAccess Register\n建築物清單\n\n\n進行中項目：\nCEO iphone\n修正PD提出的畫面\nAccess Register\n主畫面\nQR Code Scanner\n\n下週預計：\nCEO iphone\n修正PD提出的畫面\n經銷商查詢按鈕功能異動\nAccess Register\n主畫面\nQR Code Scanner\n",
+  "sandy": "本週完成項目：\n其他\n尋找及整理Telegram app資料\n\n進行中項目：\n產品：AccessRegister - Android\n建築物清單\n主畫面\n\n下週預計：\n產品：AccessRegister - Android\n建築物清單：資料API\n主畫面：資料API\n\n",
+  "eric": "本週完成項目： \n品牌APP-Estebel Spa \n完成測試及交付PM\n協助ＰＭ上架\nAuziere APP\n完成wechat,weibo,fb登入功能\n   \n\n\n進行中項目：\nAuziere APP\n登入及註冊功能及畫面流程\n\n下週預計：\nAuziere APP\n登入及註冊功能及畫面流程\nparse User table登入基本操作\n\t",
+  "hunk": "本週完成項目：\nSD：智慧數位健身器(Digital Fitness Equipment)      a.    規劃、尋求合作\n\n進行中項目：\nSD：智慧數位健身器(Digital Fitness Equipment)\n馬達規劃\n尋求合作開發\n\n下週預計：\nSD：智慧數位健身器(Digital Fitness Equipment)\n馬達規劃\n尋求合作開發\n應用規劃\n\n\n"
+}

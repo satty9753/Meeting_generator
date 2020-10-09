@@ -1,0 +1,7 @@
+{
+  "william": "本週完成項目：\n測試微信SDK (APP -> 小程序)\n學習Rvictl + Wireshark\n\n進行中項目：\n學習AVFoundation Media相關功能\nAPP分享會討論\n學習Parse相關使用\n\n下週預計：\n學習AVFoundation Media相關功能\niOS CIImage / AVCaptureVideoPreviewLayer\n學習Parse相關使用\n\n",
+  "michelle": "本週完成項目：\n開工準備\n\n進行中項目：\n修正產品APP微信分享跳轉問題\n開發IIT Toolbox訂便當功能\n\n\n下週預計：\n修正產品APP微信分享跳轉問題\n開發IIT Toolbox訂便當功能\n\n",
+  "sandy": "本週完成項目：\n尋找Facebook app資料\nSpeed Catalog Android app\n在較大解析度的手機下標題按鈕有變形問題\n因應手機有瀏海設計做畫面調整\n\n進行中項目：\n\n\n下週預計：\nIIT Tool Box Android app\n檢查App版本\n\n",
+  "eric": "本週完成項目： \n閱讀及實作parse架站相關原理知識\n\n\n進行中項目：\n實作parse Push Notification相關原理功能\n\n\n下週預計：\n閱讀及實作Test Lab /Crashlytics相關分析測試功能\n找尋ＦＢ及其他社群平台ＡＰＰ運作模式",
+  "marc": "本週完成項目：\nAuziere後台準備\nParse教學 - Nodejs安裝以及VSCode專案設定\n\n進行中項目：\nAuziere後台準備\nParse教學資料準備\n\n\n下週預計：\nAuziere app後台建置\nCEO iPhone進度Review\nParse Server教學: Push Notification\n\n"
+}
