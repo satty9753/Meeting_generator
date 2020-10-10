@@ -1,0 +1,75 @@
+App Team 2020第08週 週報
+108/02/17 - 108/02/21
+
+
+
+
+本週完成項目：
+iOS :
+Marc Liu：
+Auziere後台設定講解
+
+William Weng：
+測試iOSApp開啟微信小程序功能 (原生 / 微信)
+學習github gist功能
+學習Xcode ImageIO Framework
+
+Michelle Chen：
+學習node.js基本語法
+App分享會討論(FlipBoard)
+學習Parse
+
+Android：
+Sandy Yeh：
+尋找Flipboard app資料
+品牌庫存Android app
+調查統一使用Intent分享以及針對app客制分享的差異
+
+Eric Yeh： 
+閱讀及實作kotlin語言基本語法及與java轉換相關功能
+閱讀及實作Crashlytics相關分析測試功能
+
+
+進行中項目：
+iOS：
+Marc Liu：
+準備職務交接
+
+
+William Weng：
+測試第三方登入功能 (Apple / Google / Facebook)
+APP分享會討論 (Flipboard)
+學習ParseDashboard功能
+
+Michelle Chen：
+學習express.js
+
+Android：
+Sandy Yeh：
+IIT Tool Box Android app
+檢查App版本
+
+Eric Yeh：
+閱讀及實作kotlin語言相關實用語法
+
+
+下週預計：
+iOS：
+Marc Liu：
+準備職務交接
+
+William Weng：
+測試第三方登入功能 (Apple / Google / Facebook)
+APP分享會簡報製作
+學習ParseDashboard功能
+
+Michelle Chen：
+學習express.js
+
+Android：
+Sandy Yeh：
+IIT Tool Box Android app
+檢查App版本
+
+Eric Yeh：
+閱讀及實作Auziere相關登入登入功能 (Google / Facebook)功能

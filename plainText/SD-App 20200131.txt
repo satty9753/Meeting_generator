@@ -1,0 +1,75 @@
+App Team 2020第05週 週報
+108/01/30 - 108/01/31
+
+
+
+
+本週完成項目：
+iOS :
+Marc Liu：
+Auziere後台準備
+
+William Weng：
+測試微信SDK (APP -> 小程序)
+協助修正產品APP跳轉問題
+
+Michelle Chen：
+開工準備
+
+Android：
+Sandy Yeh：
+Speed Catalog Android app
+在較長的手機下剩餘組數的位置不正確
+在較大解析度的手機下下方按鈕有變形問題
+
+Eric Yeh： 
+預習parse Push Notification相關原理知識
+
+
+進行中項目：
+iOS：
+Marc Liu：
+Auziere後台準備
+Parse教學資料準備
+學習Promise for Swift
+
+William Weng：
+測試微信SDK (APP -> 小程序)
+學習Rvictl功能
+
+Michelle Chen：
+修正產品APP微信分享跳轉問題
+開發IIT Toolbox訂便當功能
+
+
+Android：
+Sandy Yeh：
+尋找Tik Tok app資料
+
+Eric Yeh：
+實作parse Push Notification相關原理功能
+
+
+下週預計：
+iOS：
+Marc Liu：
+Auziere app後台建置
+CEO iPhone進度Review
+Parse Server教學: Push Notification
+
+William Weng：
+測試微信SDK (APP -> 小程序)
+學習Rvictl + Wireshark
+
+Michelle Chen：
+修正產品APP微信分享跳轉問題
+開發IIT Toolbox訂便當功能
+
+Android：
+Sandy Yeh：
+尋找Tik Tok app資料
+IIT Tool Box Android app
+檢查App版本
+
+Eric Yeh：
+閱讀及實作Test Lab /Crashlytics相關分析測試功能
