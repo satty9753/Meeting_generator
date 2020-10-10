@@ -1,7 +1,0 @@
-{
-  "william": "本週完成項目：\n產品：Auziere\nHome頁資料庫設定 (根據畫面的不同去做假資料的產生)\nProfile頁修正 (根據Apple的一些規定再修改畫面的設計方式)\n\n進行中項目：\n產品：Auziere\nHome頁畫面美化與資料上傳 (真實資料)\n推播測試 (Parse / Cloud.js / iOS)\n\n下週預計：\n產品：Auziere\nHome頁畫面資料整合 (讀取真實資料 - 四頁各獨立頁)\n推播測試 (Parse / Cloud.js / iOS)\n\n",
-  "michelle": "本週完成項目：\nAccess Register\n主畫面\nQR Code Scanner\n\n\n進行中項目：\nCEO iphone\n修正PD提出的畫面\n\n下週預計：\nCEO iphone\n修正PD提出的畫面\n\n",
-  "sandy": "本週完成項目：\n產品：AccessRegister - Android\n建築物清單\n主畫面\n\n進行中項目：\n產品：Auziere - Backend\n研究Parse的Cloud Functions\n\n下週預計：\n產品：Auziere - Backend\n研究Parse的Cloud Functions\nIIT: ToolBox - Android\n加入新員工資料及移除離職員工\n\n",
-  "eric": "本週完成項目： \nAuziere APP\n登入及註冊功能及畫面流程\nparse User table登入基本操作\n   \n\n\n進行中項目：\nAuziere APP\n登入相關設定頁功能及畫面流程\n\n下週預計：\nAuziere APP\n登入相關設定頁功能及畫面流程\nparse 推播相關基本功能導入及測試\nParse Cloud Functions使用及測試\n\t",
-  "hunk": "本週完成項目：\nSD：智慧數位健身器(Digital Fitness Equipment)      a.    規劃、尋求合作\n\n進行中項目：\nSD：智慧數位健身器(Digital Fitness Equipment)\n馬達規劃\n尋求合作開發\n\n下週預計：\nSD：智慧數位健身器(Digital Fitness Equipment)\n馬達規劃\n尋求合作開發\n應用規劃\n\n\n"
-}

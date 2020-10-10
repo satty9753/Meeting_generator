@@ -6,6 +6,7 @@ import Constant
 
 def file_renaming(fname):
 
+    path = 'plainText/'
     if 'SD-App' not in fname:
         origin_fname = fname.split('.')[0]
         year = origin_fname.split('第')[0]
@@ -17,8 +18,8 @@ def file_renaming(fname):
             date = dates[2].strip() + dates[3].replace(')', '').strip()
 
         new_fname = 'SD-App ' + year + date
+        os.rename(path+fname, path+new_fname)
         return new_fname
-        #os.rename(plain_text_path+fname, plain_text_path+new_fname)
 
 def addWord(s, data):
     if 'marc' in data:
@@ -87,7 +88,7 @@ def parse_plain_text(fname):
     #parse 中文
     json_data = json.dumps(data,ensure_ascii=False,indent=2)
 
-    new_fname = file_renaming(fname)
+    new_fname = fname
 
     new_path = 'json/'
 

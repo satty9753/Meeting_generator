@@ -1,7 +1,0 @@
-{
-  "william": "本週完成項目：\n學習Swift 5.1 (官方文件)\n學習Parse Server / Dashboard 環境安裝與使用\n學習Kotlin語法\n\n進行中項目：\n全產品APP重新打包與修正圖形比例\n學習Android Tabbar元件\n學習Parse Server (Swift / js)\n\n下週預計：\nAPP分享會討論 (發票怪獸)\n學習Android Fragment元件\n學習Parse Server (Swift / js)\n\n",
-  "michelle": "本週完成項目：\n尾牙小組會議\n準備App分享會:Wheelog!的報告題目與PPT\n\n進行中項目：\n尾牙小組會議\n開發CEO APP iPhone版\n\n下週預計：\n尾牙小組會議\n開發CEO APP iPhone版\n\n",
-  "sandy": "本週完成項目：\nSpeed Catalog Android app\n在網頁及API加上Authorization Header\n因應Google要求，升級目標API至28，卻無法取得資料問題\n連續點擊按鈕會出現兩個Dialog\n關閉Dialog時，收起鍵盤\nAndroid app研究\nSecurity Library：資料加密、HTTP\n\n進行中項目：\n\n\n下週預計：\nAndroid app研究\n練習Parse的資料處理\nSecurity Library：SSL\n\n",
-  "eric": "本週完成項目： \n使用back4app服務練習Parse資料CRUD\n修改及整合iit toolbox電影功能及UI相關程式碼  \n\n\n進行中項目：\n修改iit toolbox電影照相辨識功能 \n\n\n下週預計：\n修改iit toolbox電影照相辨識功能及優化\n閱讀及實作ML kit相關實用功能部件 ",
-  "marc": "本週完成項目：\nParse Server教學：Cloud Code HowTo\nAuziere專案後台憑證安裝以及基本設定\n\n進行中項目：\nAuziere後台準備\n學習Promise for Swift\n\n下週預計：\nAuziere app後台建置\nCEO iPhone進度Review\nParse Server教學: Push Notification\n\n"
-}
