@@ -3,6 +3,23 @@ import json
 import os
 import Constant
 
+
+def file_renaming(fname):
+
+    if 'SD-App' not in fname:
+        origin_fname = fname.split('.')[0]
+        year = origin_fname.split('第')[0]
+        date = ''
+        if '~' in origin_fname:
+            date = origin_fname.split('~')[1].replace('/', '').replace(')', '').strip()
+        else:
+            dates = origin_fname.split('_')
+            date = dates[2].strip() + dates[3].replace(')', '').strip()
+
+        new_fname = 'SD-App ' + year + date
+        return new_fname
+        #os.rename(plain_text_path+fname, plain_text_path+new_fname)
+
 def addWord(s, data):
     if 'marc' in data:
         data[Constant.marc_key] += s
@@ -70,7 +87,7 @@ def parse_plain_text(fname):
     #parse 中文
     json_data = json.dumps(data,ensure_ascii=False,indent=2)
 
-    new_fname = fname.split('.')[0]
+    new_fname = file_renaming(fname)
 
     new_path = 'json/'
 
@@ -132,3 +149,10 @@ def write_to_word(fname):
 
     results_path = 'results/'
     doc.save(results_path+first_filename+'.docx')
+
+
+    
+
+
+
+#file_renaming('2020第01週 App Team 週報 (12_30 _ 01_03).docx')
