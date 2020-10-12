@@ -1,7 +1,0 @@
-{
-  "william": "本週完成項目：\n產品：Auziere\n中英文資料檔 (JSON - Profile)\n資料結構分析 (MySQL欄位 -> Meow -> JSON -> APP)\nDIYTab畫面與資料結合\n\n進行中項目：\n產品：Auziere\n中英文資料檔 (JSON - Coaching / DIY)\nCoachingTab畫面製作\nDIYTab畫面與資料結合\n\n下週預計：\n產品：Auziere\n中英文資料檔 (JSON - Coaching / DIY)\nCoachingTab畫面製作\nDIYTab畫面與資料結合\n\n",
-  "michelle": "本週完成項目：\nCEO iphone:\n修正PD提出的畫面Part2\n AccessRegister - iOS:\n測試版的後台連到正式環境\n連線失敗的alert文字更換\n如人數為0時，“-”（減號）及“離場”按鈕請顯示為灰階\n標題太長時，返回鍵的文字變成Back\n相機關閉時，進場按鈕仍是點選中狀態\n\n進行中項目：\nSD/PD：APP程式元件俱樂部\n研究Node.js網站後台技術\n\n下週預計：\nSD/PD：APP程式元件俱樂部\n研究Node.js網站後台技術\nCEO iphone\n重構圖表程式碼\n\n",
-  "sandy": "本週完成項目：\n產品：AccessRegister - Android\n解決PM提出的8個問題\nIIT: ToolBox - Backend\n加入新員工資料及移除離職員工\n\n進行中項目：\n\n\n下週預計：\nSD：技術研究與發展 - Android\n研究Android app的混淆打包\n\n",
-  "eric": "本週完成項目： \nAuziere APP\n完成首頁畫面流程及相關ＡＰＩ資料欄位調整\n優化各頁面webview模組化\n\n\n進行中項目：\nAuziere APP\n登入功能實作及畫面流程調整\n登入ＡＰＩ資料欄位調整\n\n下週預計：\nAuziere APP\n登入功能實作及畫面流程調整\n登入ＡＰＩ資料欄位調整\n各頁面webview模組化調整",
-  "hunk": "本週完成項目：\nSD：智慧數位健身器(Digital Fitness Equipment)      a.    規劃、尋求合作\n\n進行中項目：\nSD：智慧數位健身器(Digital Fitness Equipment)\n馬達規劃\n尋求合作開發\n\n下週預計：\nSD：智慧數位健身器(Digital Fitness Equipment)\n馬達規劃\n尋求合作開發\n應用規劃\n\n\n"
-}

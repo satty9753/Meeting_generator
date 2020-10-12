@@ -11,7 +11,7 @@ def file_renaming(fname):
         year = origin_fname.split('第')[0]
         date = ''
         if '~' in origin_fname:
-            date = origin_fname.split('~')[1].replace('/', '').replace(')', '').strip()
+            date = origin_fname.split('~')[1].replace('_', '').replace(')', '').strip()
         else:
             dates = origin_fname.split('_')
             date = dates[2].strip() + dates[3].replace(')', '').strip()
@@ -84,7 +84,6 @@ def parse_plain_text(fname):
     # parse_person(futurePlan)
     parse_person(contents, data)
 
-
     f.close()
     #parse 中文
     json_data = json.dumps(data,ensure_ascii=False,indent=2)
@@ -92,6 +91,9 @@ def parse_plain_text(fname):
     new_fname = fname.split('.')[0]
 
     new_path = 'json/'
+
+    if not os.path.exists('json'):
+        os.makedirs('json')
 
     with open(new_path + new_fname +'.json', "w") as outfile: 
         outfile.write(json_data) 
@@ -150,6 +152,8 @@ def write_to_word(fname):
         table.cell(11, 0).text = json_data[Constant.eric_key]
 
     results_path = 'results/'
+    if not os.path.exists('results'):
+        os.makedirs('results')
     doc.save(results_path+first_filename+'.docx')
 
 

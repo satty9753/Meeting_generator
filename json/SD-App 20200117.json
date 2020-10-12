@@ -1,7 +1,0 @@
-{
-  "william": "本週完成項目：\n學習Swift 5.1 (官方文件)\n學習Android Fragment元件\n全產品APP重新打包與修正圖形比例\n\n進行中項目：\nAPP分享會簡報 (發票怪獸)\n學習Android FragmentManager / Stack的相關使用\n協助修正產品APP Web跑版問題\n\n下週預計：\n學習Android Navigation 元件\n學習Parse Server (Swift / js)\n\n",
-  "michelle": "本週完成項目：\n尾牙小組會議\n準備App分享會:Wheelog!的報告題目與PPT\n\n進行中項目：\n尾牙小組會議\n開發CEO APP iPhone版\n\n下週預計：\n尾牙小組會議\n開發CEO APP iPhone版\n\n",
-  "sandy": "本週完成項目：\nIIT Tool Box Android app\n修改進入文具頁面的顯示畫面\n文具申請時間限制\n\n進行中項目：\nAndroid app研究\n練習Parse的資料處理\n\n下週預計：\nAndroid app研究\n練習Parse的資料處理\nSecurity Library：SSL\n\n",
-  "eric": "本週完成項目： \n使用back4app服務練習Parse cloud function\n修改iit toolbox電影照相辨識功能及優化\n\n\n進行中項目：\n閱讀及實作ML kit相關實用功能部件\n\n\n下週預計：\n預習parse Push Notification相關原理知識\n閱讀及實作ML kit相關實用功能部件 ",
-  "marc": "本週完成項目：\nIIT Toolbox 文具用品申請問題改善\nCEO App Code Review\nAuziere專案基本設定\n\n進行中項目：\nAuziere後台準備\nParse教學資料準備\n學習Promise for Swift\n\n下週預計：\nAuziere app後台建置\nCEO iPhone進度Review\nParse Server教學: Push Notification\n\n"
-}
